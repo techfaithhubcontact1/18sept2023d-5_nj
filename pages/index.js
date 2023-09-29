@@ -11,13 +11,13 @@ import Head from 'next/head'
         <title>My First Nxt application</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <header>Header Component</header>
+      <header>Header Component <h4>980*170</h4></header>
       <main>
-        <aside>Aside Component</aside> 
-        <section>Section Component</section>
+        <aside>Aside Component <h4>27*450</h4></aside> 
+        <section>Section Component <h4>690*450</h4></section>
       </main>
 
-      <footer>Footer Component</footer>
+      <footer>Footer Component <h4>980*70</h4></footer>
     </div>
   )
 }
