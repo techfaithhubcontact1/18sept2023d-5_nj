@@ -28,7 +28,7 @@ aside {
   width: 270px;
   height: 450px;
   background-color: #0D7962;
-  color: green;
+  color: #fff;
   border: 2px solid gray;
   border-radius: 5px;
   font-size: 20px;
@@ -42,7 +42,7 @@ section {
   width: 690px;
   height: 450px;
   background-color: #0D7962;
-  color: green;
+  color: #fff;
   border: 2px solid gray;
   border-radius: 5px;
   font-size: 20px;

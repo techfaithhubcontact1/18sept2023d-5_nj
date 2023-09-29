@@ -1,5 +1,9 @@
 //1. Import Area
 import Head from 'next/head'
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Aside from './Components/Aside';
+import Section from './Components/Section';
 //import something from some libary/location
 // import styles from '../styles/Home.module.css'
 
@@ -11,13 +15,15 @@ import Head from 'next/head'
         <title>My First Nxt application</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <header>Header Component <h4>980*170</h4></header>
+
+      <Header />
+
       <main>
-        <aside>Aside Component <h4>27*450</h4></aside> 
-        <section>Section Component <h4>690*450</h4></section>
+        <Aside />
+        <Section />
       </main>
 
-      <footer>Footer Component <h4>980*70</h4></footer>
+      <Footer />
     </div>
   )
 }
