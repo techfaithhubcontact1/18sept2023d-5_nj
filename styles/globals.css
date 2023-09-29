@@ -2,7 +2,7 @@ header {
   width: 980px;
   height: 140px;
   background-color: #0D7962;
-  color: #fff;
+  color: greenyellow;
   margin: auto;
   border: 2px solid gray;
   border-radius: 5px;
@@ -28,7 +28,7 @@ aside {
   width: 270px;
   height: 450px;
   background-color: #0D7962;
-  color: #fff;
+  color: green;
   border: 2px solid gray;
   border-radius: 5px;
   font-size: 20px;
@@ -42,7 +42,7 @@ section {
   width: 690px;
   height: 450px;
   background-color: #0D7962;
-  color: #fff;
+  color: green;
   border: 2px solid gray;
   border-radius: 5px;
   font-size: 20px;
