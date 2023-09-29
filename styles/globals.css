@@ -55,8 +55,8 @@ section {
 footer {
   width: 980px;
   height: 70px;
-  background-color: #0D7962;
-  color: #fff;
+  background-color: rgb(70, 70, 70);
+  color: #0e40e4;
   margin: auto;
   border: 2px solid gray;
   border-radius: 5px;
